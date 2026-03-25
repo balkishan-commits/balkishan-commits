@@ -1,6 +1,6 @@
 <!-- 🔥 TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Balkishani%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Balkishan%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=55&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Balkishan Sharma</h1>
